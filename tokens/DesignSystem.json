@@ -736,6 +736,10 @@
       "default": {
         "value": "330deg",
         "type": "color"
+      },
+      "borderLight": {
+        "value": "180deg",
+        "type": "color"
       }
     }
   },
@@ -1222,6 +1226,12 @@
             "type": "color"
           }
         }
+      }
+    },
+    "Border": {
+      "A100-0ToA0-50": {
+        "value": "linear-gradient({LineGradDeg.borderLight},#FFFFFF 0%, rgba(#ffffff, 0) 51.04%)",
+        "type": "color"
       }
     }
   },

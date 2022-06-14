@@ -735,21 +735,27 @@
   },
   "ColorSystem": {
     "Brand": {
-      "default": {
-        "value": "#145BFF",
-        "type": "color"
-      },
-      "hover": {
-        "value": "#6B98FF",
-        "type": "color"
-      },
-      "active": {
-        "value": "#0E41B5",
-        "type": "color"
-      },
-      "light": {
-        "value": "#E8EFFF",
-        "type": "color"
+      "primary": {
+        "default": {
+          "value": "#145BFF",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#6B98FF",
+          "type": "color"
+        },
+        "active": {
+          "value": "#0E41B5",
+          "type": "color"
+        },
+        "light": {
+          "value": "#E8EFFF",
+          "type": "color"
+        },
+        "grad-a-d": {
+          "value": "linear-gradient(330deg, {Brand.primary.active} 100%, {Brand.primary.default} 100%)",
+          "type": "color"
+        }
       },
       "s1": {
         "default": {
@@ -822,10 +828,6 @@
           "value": "#ffe6fa",
           "type": "color"
         }
-      },
-      "grad-a-d": {
-        "value": "linear-gradient(330deg, $Color.Brand.active 100%, $Color.Brand.default100%)",
-        "type": "color"
       }
     },
     "业务全色": {

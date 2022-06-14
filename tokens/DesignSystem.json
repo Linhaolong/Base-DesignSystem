@@ -735,7 +735,7 @@
   },
   "ColorSystem": {
     "Brand": {
-      "brand": {
+      "default": {
         "value": "#145BFF",
         "type": "color"
       },

@@ -1229,7 +1229,7 @@
       }
     },
     "Border": {
-      "A100-0ToA0-50": {
+      "grad-Light": {
         "value": "linear-gradient({LineGradDeg.borderLight},#FFFFFF 0%, rgba(#ffffff, 0) 51.04%)",
         "type": "color"
       }

@@ -836,7 +836,7 @@
     },
     "ExtensionColors": {
       "Warm": {
-        "30°-类似色": {
+        "30": {
           "default": {
             "value": "#5C33FF",
             "type": "color"
@@ -928,7 +928,7 @@
         }
       },
       "Cool": {
-        "30°-类似色": {
+        "30": {
           "default": {
             "value": "#00BCEB",
             "type": "color"

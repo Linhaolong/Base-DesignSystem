@@ -731,6 +731,12 @@
         "value": "hsl({HSL.H}, {HSL.S}, {HSL.L})",
         "type": "color"
       }
+    },
+    "LineGradDeg": {
+      "default": {
+        "value": "330deg",
+        "type": "color"
+      }
     }
   },
   "ColorSystem": {
@@ -753,11 +759,11 @@
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(330deg, {Brand.primary.active} 0%, {Brand.primary.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.active} 0%, {Brand.primary.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient(330deg, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
           "type": "color"
         }
       },
@@ -835,6 +841,32 @@
       }
     },
     "ExtensionColors": {
+      "180": {
+        "default": {
+          "value": "#FFB300",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#FFCF5E",
+          "type": "color"
+        },
+        "active": {
+          "value": "#B57F00",
+          "type": "color"
+        },
+        "light": {
+          "value": "#FFF7E6",
+          "type": "color"
+        },
+        "grad-line-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.active} 0%, {ExtensionColors.180.default} 100%)",
+          "type": "color"
+        },
+        "grad-line-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.default} 0%, {ExtensionColors.180.hover} 100%)",
+          "type": "color"
+        }
+      },
       "Warm": {
         "30": {
           "default": {
@@ -852,9 +884,13 @@
           "light": {
             "value": "#EFEBFF",
             "type": "color"
+          },
+          "grad-line-a-d": {
+            "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.Warm.30.active} 0%, {ExtensionColors.Warm.30.default} 100%)",
+            "type": "color"
           }
         },
-        "60°-邻近色": {
+        "60": {
           "default": {
             "value": "#B60AFF",
             "type": "color"
@@ -872,7 +908,7 @@
             "type": "color"
           }
         },
-        "90°-中性色": {
+        "90": {
           "default": {
             "value": "#F500C4",
             "type": "color"
@@ -890,7 +926,7 @@
             "type": "color"
           }
         },
-        "120°-对比色": {
+        "120": {
           "default": {
             "value": "#F5004A",
             "type": "color"
@@ -908,7 +944,7 @@
             "type": "color"
           }
         },
-        "150°-分裂互补色": {
+        "150": {
           "default": {
             "value": "#EB2F00",
             "type": "color"
@@ -946,7 +982,7 @@
             "type": "color"
           }
         },
-        "60°-邻近色": {
+        "60": {
           "default": {
             "value": "#00E09E",
             "type": "color"
@@ -964,7 +1000,7 @@
             "type": "color"
           }
         },
-        "90°-中性色": {
+        "90": {
           "default": {
             "value": "#00E02D",
             "type": "color"
@@ -982,7 +1018,7 @@
             "type": "color"
           }
         },
-        "120°-对比色": {
+        "120": {
           "default": {
             "value": "#44E000",
             "type": "color"
@@ -1000,7 +1036,7 @@
             "type": "color"
           }
         },
-        "150°-分裂互补色": {
+        "150": {
           "default": {
             "value": "#B4E000",
             "type": "color"
@@ -1017,24 +1053,6 @@
             "value": "#F8FCE6",
             "type": "color"
           }
-        }
-      },
-      "互补色180°": {
-        "default": {
-          "value": "#FFB300",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#FFCF5E",
-          "type": "color"
-        },
-        "active": {
-          "value": "#B57F00",
-          "type": "color"
-        },
-        "light": {
-          "value": "#FFF7E6",
-          "type": "color"
         }
       }
     }

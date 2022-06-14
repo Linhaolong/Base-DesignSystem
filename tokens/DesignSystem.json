@@ -753,7 +753,11 @@
           "type": "color"
         },
         "grad-a-d": {
-          "value": "linear-gradient(330deg, {Brand.primary.active} 100%, {Brand.primary.default} 100%)",
+          "value": "linear-gradient(330deg, {Brand.primary.active} 0%, {Brand.primary.default} 100%)",
+          "type": "color"
+        },
+        "grad-line-d-h": {
+          "value": "linear-gradient(330deg, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
           "type": "color"
         }
       },

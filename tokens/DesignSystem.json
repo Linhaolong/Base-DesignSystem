@@ -1228,9 +1228,13 @@
         }
       }
     },
-    "Border": {
+    "Border-grad": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
       "grad-Light": {
-        "value": "linear-gradient({LineGradDeg.borderLight},#FFFFFF 0%, rgba(255,255,255, 0) 50%)",
+        "value": "linear-gradient({LineGradDeg.borderLight},#FFFFFF 0%, rgba({Border-grad.white}, 0) 50%)",
         "type": "color"
       }
     }

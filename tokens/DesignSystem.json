@@ -766,8 +766,8 @@
           "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
           "type": "color"
         },
-        "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.hover} 0%, {Brand.primary.light} 100%)",
+        "grad-line-h-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },

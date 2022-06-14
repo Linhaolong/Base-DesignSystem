@@ -822,6 +822,10 @@
           "value": "#ffe6fa",
           "type": "color"
         }
+      },
+      "grad-a-d": {
+        "value": "linear-gradient(330deg, $Color.Brand.active 100%, $Color.Brand.default100%)",
+        "type": "color"
       }
     },
     "业务全色": {

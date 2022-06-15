@@ -1566,19 +1566,19 @@
       "Cool": {
         "30": {
           "default": {
-            "value": "#00BCEB",
+            "value": "$12ColorRange.ec6.6",
             "type": "color"
           },
           "hover": {
-            "value": "#5ED5F2",
+            "value": "$12ColorRange.ec6.4",
             "type": "color"
           },
           "active": {
-            "value": "#0085A7",
+            "value": "$12ColorRange.ec6.8",
             "type": "color"
           },
           "light": {
-            "value": "#E6F8FD",
+            "value": "$12ColorRange.ec6.1",
             "type": "color"
           },
           "grad-line-a-d": {
@@ -1600,19 +1600,19 @@
         },
         "60": {
           "default": {
-            "value": "#00E09E",
+            "value": "$12ColorRange.ec7.6",
             "type": "color"
           },
           "hover": {
-            "value": "#5EEBC2",
+            "value": "$12ColorRange.ec7.4",
             "type": "color"
           },
           "active": {
-            "value": "#009F70",
+            "value": "$12ColorRange.ec7.8",
             "type": "color"
           },
           "light": {
-            "value": "#E6FCF5",
+            "value": "$12ColorRange.ec7.1",
             "type": "color"
           },
           "grad-line-a-d": {
@@ -1634,15 +1634,15 @@
         },
         "90": {
           "default": {
-            "value": "#00E02D",
+            "value": "$12ColorRange.ec8.6",
             "type": "color"
           },
           "hover": {
-            "value": "#5EEB7B",
+            "value": "$12ColorRange.ec8.4",
             "type": "color"
           },
           "active": {
-            "value": "#009F20",
+            "value": "$12ColorRange.ec8.8",
             "type": "color"
           },
           "light": {
@@ -1668,19 +1668,19 @@
         },
         "120": {
           "default": {
-            "value": "#44E000",
+            "value": "$12ColorRange.ec9.6",
             "type": "color"
           },
           "hover": {
-            "value": "#89EB5E",
+            "value": "$12ColorRange.ec9.4",
             "type": "color"
           },
           "active": {
-            "value": "#309F00",
+            "value": "$12ColorRange.ec9.8",
             "type": "color"
           },
           "light": {
-            "value": "#ECFCE6",
+            "value": "$12ColorRange.ec9.1",
             "type": "color"
           },
           "grad-line-a-d": {
@@ -1702,19 +1702,19 @@
         },
         "150": {
           "default": {
-            "value": "#B4E000",
+            "value": "$12ColorRange.ec10.6",
             "type": "color"
           },
           "hover": {
-            "value": "#D0EB5E",
+            "value": "$12ColorRange.ec10.4",
             "type": "color"
           },
           "active": {
-            "value": "#809F00",
+            "value": "$12ColorRange.ec10.8",
             "type": "color"
           },
           "light": {
-            "value": "#F8FCE6",
+            "value": "$12ColorRange.ec10.1",
             "type": "color"
           },
           "grad-line-a-d": {

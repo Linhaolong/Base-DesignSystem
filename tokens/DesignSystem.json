@@ -1255,19 +1255,19 @@
     "Brand": {
       "primary": {
         "default": {
-          "value": "#145BFF",
+          "value": "$12ColorRange.primary.primary-6",
           "type": "color"
         },
         "hover": {
-          "value": "#6B98FF",
+          "value": "$12ColorRange.primary.primary-4",
           "type": "color"
         },
         "active": {
-          "value": "#0E41B5",
+          "value": "$12ColorRange.primary.primary-8",
           "type": "color"
         },
         "light": {
-          "value": "#E8EFFF",
+          "value": "$12ColorRange.primary.primary-1",
           "type": "color"
         },
         "grad-a-d": {

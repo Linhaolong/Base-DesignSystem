@@ -741,6 +741,24 @@
         "value": "180deg",
         "type": "color"
       }
+    },
+    "4SubColor": {
+      "s1": {
+        "value": "60",
+        "type": "color"
+      },
+      "s2": {
+        "value": "300",
+        "type": "color"
+      },
+      "s3": {
+        "value": "120",
+        "type": "color"
+      },
+      "s4": {
+        "value": "165",
+        "type": "color"
+      }
     }
   },
   "24ColorRange": {
@@ -1789,7 +1807,7 @@
       },
       "s1": {
         "default": {
-          "value": "{ExtensionColors.60.default}",
+          "value": "{ExtensionColors.{4SubColor.s1}.default}",
           "type": "color"
         },
         "hover": {

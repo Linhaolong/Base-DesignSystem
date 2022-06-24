@@ -1960,6 +1960,72 @@
           "value": "$24ColorRange.ec12.6",
           "type": "color"
         }
+      },
+      "195": {
+        "default": {
+          "value": "$24ColorRange.ec13.6",
+          "type": "color"
+        }
+      },
+      "210": {
+        "default": {
+          "value": "$24ColorRange.ec14.6",
+          "type": "color"
+        }
+      },
+      "225": {
+        "default": {
+          "value": "$24ColorRange.ec15.6",
+          "type": "color"
+        }
+      },
+      "240": {
+        "default": {
+          "value": "$24ColorRange.ec16.6",
+          "type": "color"
+        }
+      },
+      "255": {
+        "default": {
+          "value": "$24ColorRange.ec17.6",
+          "type": "color"
+        }
+      },
+      "270": {
+        "default": {
+          "value": "$24ColorRange.ec18.6",
+          "type": "color"
+        }
+      },
+      "285": {
+        "default": {
+          "value": "$24ColorRange.ec19.6",
+          "type": "color"
+        }
+      },
+      "300": {
+        "default": {
+          "value": "$24ColorRange.ec20.6",
+          "type": "color"
+        }
+      },
+      "315": {
+        "default": {
+          "value": "$24ColorRange.ec21.6",
+          "type": "color"
+        }
+      },
+      "330": {
+        "default": {
+          "value": "$24ColorRange.ec22.6",
+          "type": "color"
+        }
+      },
+      "345": {
+        "default": {
+          "value": "$24ColorRange.ec23.6",
+          "type": "color"
+        }
       }
     },
     "Border-grad": {

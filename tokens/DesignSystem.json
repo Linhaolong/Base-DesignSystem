@@ -1923,6 +1923,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.30.hover} 0%, {ExtensionColors.30.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.30.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "45": {
@@ -1952,6 +1956,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.45.hover} 0%, {ExtensionColors.45.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.45.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1983,6 +1991,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.60.hover} 0%, {ExtensionColors.60.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.60.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "75": {
@@ -2012,6 +2024,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.75.hover} 0%, {ExtensionColors.75.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.75.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2043,6 +2059,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.90.hover} 0%, {ExtensionColors.90.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.90.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "105": {
@@ -2072,6 +2092,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.105.hover} 0%, {ExtensionColors.105.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.105.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2103,6 +2127,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.120.hover} 0%, {ExtensionColors.120.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.120.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "135": {
@@ -2132,6 +2160,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.135.hover} 0%, {ExtensionColors.135.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.135.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2163,6 +2195,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.150.hover} 0%, {ExtensionColors.150.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.150.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "165": {
@@ -2192,6 +2228,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.165.hover} 0%, {ExtensionColors.165.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.165.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2223,6 +2263,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.hover} 0%, {ExtensionColors.180.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.180.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "195": {
@@ -2252,6 +2296,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.195.hover} 0%, {ExtensionColors.195.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.195.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2283,6 +2331,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.210.hover} 0%, {ExtensionColors.210.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.210.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "225": {
@@ -2312,6 +2364,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.225.hover} 0%, {ExtensionColors.225.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.225.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2343,6 +2399,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.240.hover} 0%, {ExtensionColors.240.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.240.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "255": {
@@ -2372,6 +2432,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.255.hover} 0%, {ExtensionColors.255.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.255.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2403,6 +2467,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.270.hover} 0%, {ExtensionColors.270.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.270.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "285": {
@@ -2432,6 +2500,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.285.hover} 0%, {ExtensionColors.285.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.285.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2463,6 +2535,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.300.hover} 0%, {ExtensionColors.300.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.300.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "315": {
@@ -2492,6 +2568,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.315.hover} 0%, {ExtensionColors.315.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.315.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2523,6 +2603,10 @@
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.330.hover} 0%, {ExtensionColors.330.light} 100%)",
           "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.330.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "345": {
@@ -2552,6 +2636,10 @@
         },
         "grad-line-h-l": {
           "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.hover} 0%, {ExtensionColors.345.light} 100%)",
+          "type": "color"
+        },
+        "grad-line-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {ExtensionColors.345.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       }

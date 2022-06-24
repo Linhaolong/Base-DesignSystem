@@ -2151,11 +2151,35 @@
         "default": {
           "value": "$24ColorRange.ec16.6",
           "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec16.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec16.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec16.1",
+          "type": "color"
         }
       },
       "255": {
         "default": {
           "value": "$24ColorRange.ec17.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec17.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec17.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec17.1",
           "type": "color"
         }
       },
@@ -2163,11 +2187,35 @@
         "default": {
           "value": "$24ColorRange.ec18.6",
           "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec18.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec18.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec18.1",
+          "type": "color"
         }
       },
       "285": {
         "default": {
           "value": "$24ColorRange.ec19.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec19.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec19.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec19.1",
           "type": "color"
         }
       },
@@ -2175,11 +2223,35 @@
         "default": {
           "value": "$24ColorRange.ec20.6",
           "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec20.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec20.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec20.1",
+          "type": "color"
         }
       },
       "315": {
         "default": {
           "value": "$24ColorRange.ec21.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec21.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec21.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec21.1",
           "type": "color"
         }
       },
@@ -2187,11 +2259,35 @@
         "default": {
           "value": "$24ColorRange.ec22.6",
           "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec22.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec22.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec22.1",
+          "type": "color"
         }
       },
       "345": {
         "default": {
           "value": "$24ColorRange.ec23.6",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$24ColorRange.ec23.4",
+          "type": "color"
+        },
+        "active": {
+          "value": "$24ColorRange.ec23.8",
+          "type": "color"
+        },
+        "light": {
+          "value": "$24ColorRange.ec23.1",
           "type": "color"
         }
       }

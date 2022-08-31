@@ -43,7 +43,7 @@
         "value": "#4e4b46",
         "type": "color"
       },
-      "icon-disabled": {
+      "icon-disabled-浅图标": {
         "value": "#bfbfbf",
         "type": "color"
       },
@@ -62,26 +62,26 @@
           {
             "color": "#00000003",
             "type": "dropShadow",
-            "x": 0,
-            "y": 9,
-            "blur": 12,
-            "spread": 8
+            "x": "0",
+            "y": "9",
+            "blur": "12",
+            "spread": "8"
           },
           {
             "color": "#0000000a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 6,
-            "blur": 6,
-            "spread": 0
+            "x": "0",
+            "y": "6",
+            "blur": "6",
+            "spread": "0"
           },
           {
             "color": "#00000012",
             "type": "dropShadow",
-            "x": 0,
-            "y": 3,
-            "blur": 6,
-            "spread": -4
+            "x": "0",
+            "y": "3",
+            "blur": "6",
+            "spread": "-4"
           }
         ],
         "type": "boxShadow"
@@ -91,26 +91,26 @@
           {
             "color": "#00000003",
             "type": "dropShadow",
-            "x": 0,
-            "y": 12,
-            "blur": 48,
-            "spread": 16
+            "x": "0",
+            "y": "12",
+            "blur": "48",
+            "spread": "16"
           },
           {
             "color": "#00000008",
             "type": "dropShadow",
-            "x": 0,
-            "y": 9,
-            "blur": 29,
-            "spread": 0
+            "x": "0",
+            "y": "9",
+            "blur": "29",
+            "spread": "0"
           },
           {
             "color": "#0000000d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 6,
-            "blur": 16,
-            "spread": -8
+            "x": "0",
+            "y": "6",
+            "blur": "16",
+            "spread": "-8"
           }
         ],
         "type": "boxShadow"
@@ -119,10 +119,10 @@
         "value": {
           "color": "#00000026",
           "type": "dropShadow",
-          "x": 0,
-          "y": 12,
-          "blur": 20,
-          "spread": -10
+          "x": "0",
+          "y": "12",
+          "blur": "20",
+          "spread": "-10"
         },
         "type": "boxShadow"
       },
@@ -131,18 +131,18 @@
           {
             "color": "#006bff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 10,
-            "blur": 20,
-            "spread": -8
+            "x": "0",
+            "y": "10",
+            "blur": "20",
+            "spread": "-8"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -152,18 +152,18 @@
           {
             "color": "#006bff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 20,
-            "blur": 35,
-            "spread": -10
+            "x": "0",
+            "y": "20",
+            "blur": "35",
+            "spread": "-10"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -173,18 +173,18 @@
           {
             "color": "#ff5319",
             "type": "dropShadow",
-            "x": 0,
-            "y": 10,
-            "blur": 20,
-            "spread": -8
+            "x": "0",
+            "y": "10",
+            "blur": "20",
+            "spread": "-8"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -194,18 +194,18 @@
           {
             "color": "#ff5319",
             "type": "dropShadow",
-            "x": 0,
-            "y": 20,
-            "blur": 35,
-            "spread": -10
+            "x": "0",
+            "y": "20",
+            "blur": "35",
+            "spread": "-10"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -215,18 +215,18 @@
           {
             "color": "#6e3aff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 10,
-            "blur": 20,
-            "spread": -8
+            "x": "0",
+            "y": "10",
+            "blur": "20",
+            "spread": "-8"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -236,18 +236,18 @@
           {
             "color": "#6e3aff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 20,
-            "blur": 35,
-            "spread": -10
+            "x": "0",
+            "y": "20",
+            "blur": "35",
+            "spread": "-10"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -259,18 +259,18 @@
           {
             "color": "#2626260d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 3,
-            "blur": 8,
-            "spread": -1
+            "x": "0",
+            "y": "3",
+            "blur": "8",
+            "spread": "-1"
           },
           {
             "color": "#2626263d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 1,
-            "spread": 0
+            "x": "0",
+            "y": "0",
+            "blur": "1",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -280,26 +280,26 @@
           {
             "color": "#26262608",
             "type": "dropShadow",
-            "x": 0,
-            "y": 24,
-            "blur": 32,
-            "spread": 16
+            "x": "0",
+            "y": "24",
+            "blur": "32",
+            "spread": "16"
           },
           {
             "color": "#2626260d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 9,
-            "blur": 28,
-            "spread": 0
+            "x": "0",
+            "y": "9",
+            "blur": "28",
+            "spread": "0"
           },
           {
             "color": "#26262614",
             "type": "dropShadow",
-            "x": 0,
-            "y": 6,
-            "blur": 16,
-            "spread": -8
+            "x": "0",
+            "y": "6",
+            "blur": "16",
+            "spread": "-8"
           }
         ],
         "type": "boxShadow"
@@ -309,18 +309,18 @@
           {
             "color": "#26262614",
             "type": "dropShadow",
-            "x": 0,
-            "y": 30,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "30",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -330,18 +330,18 @@
           {
             "color": "#006bff4d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 30,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "30",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -351,18 +351,18 @@
           {
             "color": "#006bff59",
             "type": "dropShadow",
-            "x": 0,
-            "y": 40,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "40",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -372,18 +372,18 @@
           {
             "color": "#ff53194d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 30,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "30",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -393,18 +393,18 @@
           {
             "color": "#ff531959",
             "type": "dropShadow",
-            "x": 0,
-            "y": 40,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "40",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -414,18 +414,18 @@
           {
             "color": "#6e3aff4d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 30,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "30",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -435,18 +435,18 @@
           {
             "color": "#6e3aff59",
             "type": "dropShadow",
-            "x": 0,
-            "y": 40,
-            "blur": 24,
-            "spread": -20
+            "x": "0",
+            "y": "40",
+            "blur": "24",
+            "spread": "-20"
           },
           {
             "color": "#ffffff",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"

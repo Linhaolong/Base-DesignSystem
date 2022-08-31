@@ -1,7 +1,12 @@
 {
   "atomValue": {
     "fontFamilies": {
-      "cn-en": {
+      "PC": {
+        "value": "Microsoft YaHei UI",
+        "type": "fontFamilies",
+        "description": "微软雅黑"
+      },
+      "APP": {
         "value": "PingFang SC",
         "type": "fontFamilies"
       },
@@ -16,18 +21,15 @@
         "type": "fontWeights",
         "description": "Regular 400"
       },
-      "Bold": {
+      "Medium": {
         "value": "Medium",
         "type": "fontWeights",
-        "description": "Bold 600"
+        "description": "苹方字体的Bold"
       },
-      "W3": {
-        "value": "W3",
-        "type": "fontWeights"
-      },
-      "W6": {
-        "value": "W6",
-        "type": "fontWeights"
+      "Bold": {
+        "value": "Bold",
+        "type": "fontWeights",
+        "description": "微软雅黑的Bold"
       }
     },
     "lineHeights": {
@@ -180,8 +182,8 @@
       "PC": {
         "text-banner-big": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-big + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-big",
             "letterSpacing": "0%",
@@ -194,8 +196,8 @@
         },
         "text-banner-medium": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-medium + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-medium",
             "letterSpacing": "0%",
@@ -208,8 +210,8 @@
         },
         "text-banner-sm": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-sm + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-sm",
             "letterSpacing": "0%",
@@ -222,8 +224,8 @@
         },
         "text-title": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.title + $lineHeights.base",
             "fontSize": "$PC-fontSizes.title",
             "letterSpacing": "0%",
@@ -236,8 +238,8 @@
         },
         "text-title-sub": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.title-sub + $lineHeights.base",
             "fontSize": "$PC-fontSizes.title-sub",
             "letterSpacing": "0%",
@@ -250,8 +252,8 @@
         },
         "text-body": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.body+ $lineHeights.base",
             "fontSize": "$PC-fontSizes.body",
             "letterSpacing": "0%",
@@ -264,8 +266,8 @@
         },
         "text-body-sm": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.body-sm + $lineHeights.base",
             "fontSize": "$PC-fontSizes.body-sm",
             "letterSpacing": "0%",
@@ -278,8 +280,8 @@
         },
         "text-des": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.des + $lineHeights.base",
             "fontSize": "$PC-fontSizes.des",
             "letterSpacing": "0%",
@@ -294,8 +296,8 @@
       "APP": {
         "text-H1": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H1}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -308,8 +310,8 @@
         },
         "text-H2": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H2}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -322,8 +324,8 @@
         },
         "text-H3": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H3}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -336,8 +338,8 @@
         },
         "text-H4": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H4}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -350,7 +352,7 @@
         },
         "text-title": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
             "fontSize": "{APP-fontSizes.title}",
@@ -361,7 +363,7 @@
         },
         "text-body": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.body}",
             "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}",
@@ -372,7 +374,7 @@
         },
         "text-body-sub": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.body-sub}",
             "lineHeight": "{APP-fontSizes.body-sub} + {lineHeights.base}",
@@ -383,7 +385,7 @@
         },
         "text-icon": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.icon}",
             "lineHeight": "{APP-fontSizes.icon} + {lineHeights.base}",

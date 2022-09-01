@@ -489,23 +489,28 @@
       "Icon": {
         "xsmall-24": {
           "value": "24",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "xsmall"
         },
         "small-36": {
           "value": "36",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "small"
         },
         "medium-48": {
           "value": "48",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "medium"
         },
         "large-56": {
           "value": "56",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "large"
         },
         "xlarge-72": {
           "value": "72",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "xlarge"
         }
       }
     }

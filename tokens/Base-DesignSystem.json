@@ -79,44 +79,44 @@
     },
     "APP-fontSizes": {
       "H1": {
-        "value": "20",
+        "value": "40",
         "type": "fontSizes",
-        "description": "单页标题-如异常页错误页等"
+        "description": "单页标题-错误页等"
       },
       "H2": {
-        "value": "18",
+        "value": "36",
         "type": "fontSizes",
-        "description": "页面一级标题，弹窗标题"
+        "description": "一级标题、弹窗标题"
       },
       "H3": {
-        "value": "16",
+        "value": "32",
         "type": "fontSizes",
-        "description": "次要标题，文字导航"
+        "description": "模块标题"
       },
       "H4": {
-        "value": "14",
+        "value": "30",
         "type": "fontSizes",
-        "description": "辅助信息标题"
+        "description": "文字导航、内容标题(一行)"
       },
-      "title": {
-        "value": "16",
+      "body-big": {
+        "value": "28",
         "type": "fontSizes",
-        "description": "单行列表内容"
+        "description": "单行内容(通常配合大标)"
       },
       "body": {
-        "value": "14",
+        "value": "26",
         "type": "fontSizes",
-        "description": "文章正文、大篇幅"
+        "description": "常规正文、大篇幅"
       },
       "body-sub": {
-        "value": "12",
+        "value": "24",
         "type": "fontSizes",
-        "description": "辅助信息"
+        "description": "次常规内容 描述等"
       },
       "icon": {
-        "value": "10",
+        "value": "20",
         "type": "fontSizes",
-        "description": "tabbar文字、带图标文字"
+        "description": "带图标文字、tag文字"
       }
     },
     "LetterSpacings": {
@@ -307,7 +307,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "个人主页用户名，登录流程标题"
+          "description": "单页标题-错误页等"
         },
         "text-H2": {
           "value": {
@@ -321,7 +321,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "页面一级标题，弹窗标题"
+          "description": "一级标题、弹窗标题"
         },
         "text-H3": {
           "value": {
@@ -335,7 +335,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "次要标题，文字导航"
+          "description": "模块标题"
         },
         "text-H4": {
           "value": {
@@ -349,18 +349,18 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "辅助信息标题"
+          "description": "文字导航、内容标题(一行)"
         },
-        "text-title": {
+        "text-body-big": {
           "value": {
             "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
-            "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
-            "fontSize": "{APP-fontSizes.title}",
+            "lineHeight": "{APP-fontSizes.body-big} + {lineHeights.base}",
+            "fontSize": "{APP-fontSizes.body-big}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "单行列表内容"
+          "description": "单行内容(通常配合大标)"
         },
         "text-body": {
           "value": {
@@ -371,7 +371,7 @@
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "文章正文、大篇幅内容"
+          "description": "常规正文、大篇幅"
         },
         "text-body-sub": {
           "value": {
@@ -382,7 +382,7 @@
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "辅助信息"
+          "description": "次常规内容 描述等"
         },
         "text-icon": {
           "value": {
@@ -393,7 +393,7 @@
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "tabbar文字、带图标文字"
+          "description": "带图标文字、tag文字"
         }
       }
     },

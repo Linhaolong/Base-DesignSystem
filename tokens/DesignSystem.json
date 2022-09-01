@@ -1227,7 +1227,7 @@
       }
     }
   },
-  "ColorSystem": {
+  "Brand-ColorSystem": {
     "Brand": {
       "primary": {
         "default": {
@@ -2226,7 +2226,7 @@
     "tokenSetOrder": [
       "24_HUE",
       "24ColorRange",
-      "ColorSystem"
+      "Brand-ColorSystem"
     ]
   }
 }

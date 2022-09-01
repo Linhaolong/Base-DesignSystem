@@ -1,5 +1,5 @@
 {
-  "atomValue": {
+  "Base-Design-System": {
     "fontFamilies": {
       "PC": {
         "value": "Microsoft YaHei UI",
@@ -124,9 +124,7 @@
         "value": "0.22px",
         "type": "letterSpacing"
       }
-    }
-  },
-  "global": {
+    },
     "Neutral": {
       "text-primary一级信息-标题": {
         "value": "#1f1f1f",
@@ -523,8 +521,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "atomValue",
-      "global"
+      "Base-Design-System"
     ]
   }
 }

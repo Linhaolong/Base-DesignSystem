@@ -81,7 +81,7 @@
       "H1": {
         "value": "20",
         "type": "fontSizes",
-        "description": "个人主页用户名，登录流程标题"
+        "description": "单页标题-如异常页错误页等"
       },
       "H2": {
         "value": "18",

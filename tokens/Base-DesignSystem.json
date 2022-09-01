@@ -507,12 +507,6 @@
           "value": "72",
           "type": "sizing"
         }
-      },
-      "Input": {
-        "H-96": {
-          "value": "96",
-          "type": "sizing"
-        }
       }
     }
   },

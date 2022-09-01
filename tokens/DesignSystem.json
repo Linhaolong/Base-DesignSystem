@@ -1,11 +1,16 @@
 {
-  "atomValue": {
+  "Base-Design-System": {
     "fontFamilies": {
-      "cn-en": {
+      "PC": {
+        "value": "Microsoft YaHei UI",
+        "type": "fontFamilies",
+        "description": "微软雅黑"
+      },
+      "APP": {
         "value": "PingFang SC",
         "type": "fontFamilies"
       },
-      "num": {
+      "Num": {
         "value": "TCloud Number",
         "type": "fontFamilies"
       }
@@ -16,18 +21,15 @@
         "type": "fontWeights",
         "description": "Regular 400"
       },
-      "Bold": {
+      "Medium": {
         "value": "Medium",
         "type": "fontWeights",
-        "description": "Bold 600"
+        "description": "苹方字体的Bold"
       },
-      "W3": {
-        "value": "W3",
-        "type": "fontWeights"
-      },
-      "W6": {
-        "value": "W6",
-        "type": "fontWeights"
+      "Bold": {
+        "value": "Bold",
+        "type": "fontWeights",
+        "description": "微软雅黑的Bold"
       }
     },
     "lineHeights": {
@@ -77,44 +79,44 @@
     },
     "APP-fontSizes": {
       "H1": {
-        "value": "20",
+        "value": "40",
         "type": "fontSizes",
-        "description": "个人主页用户名，登录流程标题"
+        "description": "单页标题-错误页等"
       },
       "H2": {
-        "value": "18",
+        "value": "36",
         "type": "fontSizes",
-        "description": "页面一级标题，弹窗标题"
+        "description": "一级标题、弹窗标题"
       },
       "H3": {
-        "value": "16",
+        "value": "32",
         "type": "fontSizes",
-        "description": "次要标题，文字导航"
+        "description": "模块标题"
       },
       "H4": {
-        "value": "14",
+        "value": "30",
         "type": "fontSizes",
-        "description": "辅助信息标题"
+        "description": "文字导航、内容标题(一行)"
       },
-      "title": {
-        "value": "16",
+      "body-big": {
+        "value": "28",
         "type": "fontSizes",
-        "description": "单行列表内容"
+        "description": "单行内容(通常配合大标)"
       },
       "body": {
-        "value": "14",
+        "value": "26",
         "type": "fontSizes",
-        "description": "文章正文、大篇幅"
+        "description": "常规正文、大篇幅"
       },
       "body-sub": {
-        "value": "12",
+        "value": "24",
         "type": "fontSizes",
-        "description": "辅助信息"
+        "description": "次常规内容 描述等"
       },
       "icon": {
-        "value": "10",
+        "value": "20",
         "type": "fontSizes",
-        "description": "tabbar文字、带图标文字"
+        "description": "带图标文字、tag文字"
       }
     },
     "LetterSpacings": {
@@ -122,55 +124,54 @@
         "value": "0.22px",
         "type": "letterSpacing"
       }
-    }
-  },
-  "global": {
+    },
     "Neutral": {
-      "text-primary": {
+      "text-primary一级信息-标题": {
         "value": "#1f1f1f",
         "type": "color",
         "description": "一级信息-标题"
       },
-      "text-secondary": {
+      "text-secondary次级信息、正文内容": {
         "value": "#434343",
         "type": "color",
         "description": "次级信息、正文内容"
       },
-      "text-sub": {
+      "text-sub辅助性、描述": {
         "value": "#8c8c8c",
         "type": "color",
         "description": "辅助性、描述"
       },
-      "text-disabled": {
+      "text-disabled不可操作": {
         "value": "#bfbfbf",
         "type": "color",
         "description": "不可操作"
       },
-      "border-strong": {
+      "border-strong分割线深": {
         "value": "#d9d9d9",
         "type": "color",
         "description": "分割线深"
       },
-      "border-weak": {
+      "border-weak分割线浅": {
         "value": "#f0f0f0",
         "type": "color",
         "description": "分割线浅"
       },
-      "icon-primary": {
+      "icon-primary主图标": {
         "value": "#4e4b46",
         "type": "color",
         "description": "主图标"
       },
-      "icon-disabled": {
+      "icon-disabled浅图标": {
         "value": "#bfbfbf",
-        "type": "color"
+        "type": "color",
+        "description": "浅图标"
       },
-      "bg-dividers": {
+      "bg-dividers块背景": {
         "value": "#f5f5f5",
         "type": "color",
         "description": "块背景"
       },
-      "bg-page": {
+      "bg-page大面积背景": {
         "value": "#fafafa",
         "type": "color",
         "description": "大面积背景"
@@ -180,8 +181,8 @@
       "PC": {
         "text-banner-big": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-big + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-big",
             "letterSpacing": "0%",
@@ -190,12 +191,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-大"
+          "description": "运营标题-大"
         },
         "text-banner-medium": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-medium + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-medium",
             "letterSpacing": "0%",
@@ -204,12 +205,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-中"
+          "description": "运营标题-中"
         },
         "text-banner-sm": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Bold",
             "lineHeight": "$PC-fontSizes.banner-sm + $lineHeights.base",
             "fontSize": "$PC-fontSizes.banner-sm",
             "letterSpacing": "0%",
@@ -218,12 +219,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-小"
+          "description": "运营标题-小"
         },
         "text-title": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.title + $lineHeights.base",
             "fontSize": "$PC-fontSizes.title",
             "letterSpacing": "0%",
@@ -236,8 +237,8 @@
         },
         "text-title-sub": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.title-sub + $lineHeights.base",
             "fontSize": "$PC-fontSizes.title-sub",
             "letterSpacing": "0%",
@@ -250,8 +251,8 @@
         },
         "text-body": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.body+ $lineHeights.base",
             "fontSize": "$PC-fontSizes.body",
             "letterSpacing": "0%",
@@ -264,8 +265,8 @@
         },
         "text-body-sm": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.body-sm + $lineHeights.base",
             "fontSize": "$PC-fontSizes.body-sm",
             "letterSpacing": "0%",
@@ -278,8 +279,8 @@
         },
         "text-des": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.W3",
+            "fontFamily": "{fontFamilies.PC}",
+            "fontWeight": "$fontweights.Regular",
             "lineHeight": "$PC-fontSizes.des + $lineHeights.base",
             "fontSize": "$PC-fontSizes.des",
             "letterSpacing": "0%",
@@ -294,8 +295,8 @@
       "APP": {
         "text-H1": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H1}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -304,12 +305,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "个人主页用户名，登录流程标题"
+          "description": "单页标题-错误页等"
         },
         "text-H2": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H2}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -318,12 +319,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "页面一级标题，弹窗标题"
+          "description": "一级标题、弹窗标题"
         },
         "text-H3": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H3}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -332,12 +333,12 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "次要标题，文字导航"
+          "description": "模块标题"
         },
         "text-H4": {
           "value": {
-            "fontFamily": "$fontFamilies.cn-en",
-            "fontWeight": "$fontweights.Bold",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
             "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H4}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -346,51 +347,51 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "辅助信息标题"
+          "description": "文字导航、内容标题(一行)"
         },
-        "text-title": {
+        "text-body-big": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
-            "lineHeight": "{APP-fontSizes.title} + {lineHeights.base}",
-            "fontSize": "{APP-fontSizes.title}",
+            "lineHeight": "{APP-fontSizes.body-big} + {lineHeights.base}",
+            "fontSize": "{APP-fontSizes.body-big}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "单行列表内容"
+          "description": "单行内容(通常配合大标)"
         },
         "text-body": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.body}",
             "lineHeight": "{APP-fontSizes.body} + {lineHeights.base}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "文章正文、大篇幅内容"
+          "description": "常规正文、大篇幅"
         },
         "text-body-sub": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.body-sub}",
             "lineHeight": "{APP-fontSizes.body-sub} + {lineHeights.base}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "辅助信息"
+          "description": "次常规内容 描述等"
         },
         "text-icon": {
           "value": {
-            "fontFamily": "{fontFamilies.cn-en}",
+            "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Regular}",
             "fontSize": "{APP-fontSizes.icon}",
             "lineHeight": "{APP-fontSizes.icon} + {lineHeights.base}",
             "letterSpacing": "{LetterSpacings.default}"
           },
           "type": "typography",
-          "description": "tabbar文字、带图标文字"
+          "description": "带图标文字、tag文字"
         }
       }
     },
@@ -434,23 +435,28 @@
       "Icon": {
         "xsmall-16": {
           "value": "16",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "xsmall"
         },
         "small-20": {
           "value": "20",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "small"
         },
         "medium-24": {
           "value": "24",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "medium"
         },
         "large-32": {
           "value": "32",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "large"
         },
         "xlarge-48": {
           "value": "48",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "xlarge"
         }
       },
       "Button": {
@@ -484,45 +490,30 @@
     },
     "APP": {
       "Icon": {
-        "small-16": {
-          "value": "16",
-          "type": "sizing"
-        },
-        "medium-22": {
-          "value": "22",
-          "type": "sizing"
-        },
-        "xmedium-24": {
+        "xsmall-24": {
           "value": "24",
-          "type": "sizing"
+          "type": "sizing",
+          "description": "xsmall"
         },
-        "large-32": {
-          "value": "32",
-          "type": "sizing"
-        }
-      },
-      "Button": {
-        "small-26": {
-          "value": "26",
-          "type": "sizing"
+        "small-36": {
+          "value": "36",
+          "type": "sizing",
+          "description": "small"
         },
-        "medium-32": {
-          "value": "32",
-          "type": "sizing"
+        "medium-48": {
+          "value": "48",
+          "type": "sizing",
+          "description": "medium"
         },
-        "large-44": {
-          "value": "44",
-          "type": "sizing"
-        }
-      },
-      "Input": {
-        "medium-28": {
-          "value": "28",
-          "type": "sizing"
+        "large-56": {
+          "value": "56",
+          "type": "sizing",
+          "description": "large"
         },
-        "large-44": {
-          "value": "44",
-          "type": "sizing"
+        "xlarge-72": {
+          "value": "72",
+          "type": "sizing",
+          "description": "xlarge"
         }
       }
     }
@@ -2749,5 +2740,13 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Base-Design-System",
+      "24_HUE",
+      "24ColorRange",
+      "ColorSystem"
+    ]
+  }
 }

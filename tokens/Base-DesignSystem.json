@@ -418,7 +418,7 @@
       "type": "spacing"
     },
     "bor-r1": {
-      "value": "4px",
+      "value": "4",
       "type": "borderRadius"
     },
     "bor-r2": {

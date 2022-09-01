@@ -487,44 +487,30 @@
     },
     "APP": {
       "Icon": {
-        "small-16": {
-          "value": "16",
-          "type": "sizing"
-        },
-        "medium-22": {
-          "value": "22",
-          "type": "sizing"
-        },
-        "xmedium-24": {
+        "xsmall-24": {
           "value": "24",
           "type": "sizing"
         },
-        "large-32": {
-          "value": "32",
-          "type": "sizing"
-        }
-      },
-      "Button": {
-        "small-26": {
-          "value": "26",
+        "small-36": {
+          "value": "36",
           "type": "sizing"
         },
-        "medium-32": {
-          "value": "32",
+        "medium-48": {
+          "value": "48",
           "type": "sizing"
         },
-        "large-44": {
-          "value": "44",
+        "large-56": {
+          "value": "56",
+          "type": "sizing"
+        },
+        "xlarge-72": {
+          "value": "72",
           "type": "sizing"
         }
       },
       "Input": {
-        "medium-28": {
-          "value": "28",
-          "type": "sizing"
-        },
-        "large-44": {
-          "value": "44",
+        "H-96": {
+          "value": "96",
           "type": "sizing"
         }
       }

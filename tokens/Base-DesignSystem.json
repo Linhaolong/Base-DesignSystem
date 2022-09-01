@@ -10,7 +10,7 @@
         "value": "PingFang SC",
         "type": "fontFamilies"
       },
-      "num": {
+      "Num": {
         "value": "TCloud Number",
         "type": "fontFamilies"
       }
@@ -193,7 +193,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-大"
+          "description": "运营标题-大"
         },
         "text-banner-medium": {
           "value": {
@@ -207,7 +207,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-中"
+          "description": "运营标题-中"
         },
         "text-banner-sm": {
           "value": {
@@ -221,7 +221,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "banner-小"
+          "description": "运营标题-小"
         },
         "text-title": {
           "value": {

@@ -175,6 +175,10 @@
         "value": "#fafafa",
         "type": "color",
         "description": "大面积背景"
+      },
+      "common-white": {
+        "value": "#ffffff",
+        "type": "color"
       }
     },
     "typography": {

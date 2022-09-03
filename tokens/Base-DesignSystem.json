@@ -89,9 +89,9 @@
         "description": "一级标题、弹窗标题"
       },
       "H3": {
-        "value": "32",
+        "value": "34",
         "type": "fontSizes",
-        "description": "模块标题"
+        "description": "列表、模块标题"
       },
       "H4": {
         "value": "30",
@@ -337,7 +337,7 @@
             "textCase": "none"
           },
           "type": "typography",
-          "description": "模块标题"
+          "description": "列表、模块标题"
         },
         "text-H4": {
           "value": {

@@ -1261,19 +1261,19 @@
       },
       "s1": {
         "default": {
-          "value": "{ExtensionColors.60.default}",
+          "value": "{ExtensionColors.165.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtensionColors.60.hover}",
+          "value": "{ExtensionColors.165.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtensionColors.60.active}",
+          "value": "{ExtensionColors.165.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtensionColors.60.light}",
+          "value": "{ExtensionColors.165.light}",
           "type": "color"
         }
       },

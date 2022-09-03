@@ -300,7 +300,7 @@
         "text-H1": {
           "value": {
             "fontFamily": "{fontFamilies.APP}",
-            "fontWeight": "{fontweights.Medium}",
+            "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H1}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -311,10 +311,21 @@
           "type": "typography",
           "description": "单页标题-错误页等"
         },
-        "text-H2": {
+        "text-H1-B": {
           "value": {
             "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Medium}",
+            "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H1}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "加粗"
+        },
+        "text-H2": {
+          "value": {
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H2}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -325,10 +336,21 @@
           "type": "typography",
           "description": "一级标题、弹窗标题"
         },
-        "text-H3": {
+        "text-H2-B": {
           "value": {
             "fontFamily": "{fontFamilies.APP}",
             "fontWeight": "{fontweights.Medium}",
+            "lineHeight": "{APP-fontSizes.H2} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H2}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "加粗"
+        },
+        "text-H3": {
+          "value": {
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H3}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -339,10 +361,21 @@
           "type": "typography",
           "description": "列表、模块标题"
         },
+        "text-H3-B": {
+          "value": {
+            "lineHeight": "{APP-fontSizes.H3} + $lineHeights.base",
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
+            "fontSize": "{APP-fontSizes.H3}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "加粗"
+        },
         "text-H4": {
           "value": {
             "fontFamily": "{fontFamilies.APP}",
-            "fontWeight": "{fontweights.Medium}",
+            "fontWeight": "{fontweights.Regular}",
             "lineHeight": "{APP-fontSizes.H4} + $lineHeights.base",
             "fontSize": "{APP-fontSizes.H4}",
             "letterSpacing": "{LetterSpacings.default}",
@@ -352,6 +385,17 @@
           },
           "type": "typography",
           "description": "文字导航、内容标题(一行)"
+        },
+        "text-H4-B": {
+          "value": {
+            "fontFamily": "{fontFamilies.APP}",
+            "fontWeight": "{fontweights.Medium}",
+            "lineHeight": "{APP-fontSizes.H1} + $lineHeights.base",
+            "fontSize": "{APP-fontSizes.H4}",
+            "letterSpacing": "{LetterSpacings.default}"
+          },
+          "type": "typography",
+          "description": "加粗"
         },
         "text-body-big": {
           "value": {

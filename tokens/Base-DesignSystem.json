@@ -71,7 +71,7 @@
         "type": "fontSizes",
         "description": "短文字大小"
       },
-      "des": {
+      "desc": {
         "value": "12",
         "type": "fontSizes",
         "description": "辅助文字"
@@ -281,12 +281,12 @@
           "type": "typography",
           "description": "内容-小"
         },
-        "text-des": {
+        "text-desc": {
           "value": {
             "fontFamily": "{fontFamilies.PC}",
             "fontWeight": "$fontweights.Regular",
-            "lineHeight": "$PC-fontSizes.des + $lineHeights.base",
-            "fontSize": "$PC-fontSizes.des",
+            "lineHeight": "{PC-fontSizes.desc} + $lineHeights.base",
+            "fontSize": "{PC-fontSizes.desc}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",

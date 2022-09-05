@@ -506,34 +506,6 @@
           "type": "sizing",
           "description": "xlarge"
         }
-      },
-      "Button": {
-        "small-24": {
-          "value": "24",
-          "type": "sizing"
-        },
-        "medium-32": {
-          "value": "32",
-          "type": "sizing"
-        },
-        "large-40": {
-          "value": "40",
-          "type": "sizing"
-        },
-        "xlarge-48": {
-          "value": "48",
-          "type": "sizing"
-        }
-      },
-      "Input": {
-        "medium-32": {
-          "value": "32",
-          "type": "sizing"
-        },
-        "large-40": {
-          "value": "40",
-          "type": "sizing"
-        }
       }
     },
     "APP": {

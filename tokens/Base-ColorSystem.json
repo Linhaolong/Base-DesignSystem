@@ -1246,15 +1246,15 @@
           "value": "$24ColorRange.primary.1",
           "type": "color"
         },
-        "grad-a-d": {
+        "gradLine-a-d": {
           "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.active} 0%, {Brand.primary.default} 100%)",
           "type": "color"
         },
-        "grad-line-d-h": {
+        "gradLine-d-h": {
           "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {Brand.primary.hover} 100%)",
           "type": "color"
         },
-        "grad-line-l-white": {
+        "gradLine-l-white": {
           "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.light} 0%, #ffffff 100%)",
           "type": "color"
         }
@@ -1275,6 +1275,18 @@
         "light": {
           "value": "{ExtensionColors.165.light}",
           "type": "color"
+        },
+        "gradLine-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s1.active} 0%, {Brand.s1.default} 100%)",
+          "type": "color"
+        },
+        "gradLine-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s1.default} 0%, {Brand.s1.hover} 100%)",
+          "type": "color"
+        },
+        "gradLine-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s1.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "s2": {
@@ -1292,6 +1304,18 @@
         },
         "light": {
           "value": "{ExtensionColors.300.light}",
+          "type": "color"
+        },
+        "gradLine-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s2.active} 0%, {Brand.s2.default} 100%)",
+          "type": "color"
+        },
+        "gradLine-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s2.default} 0%, {Brand.s2.hover} 100%)",
+          "type": "color"
+        },
+        "gradLine-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s2.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1311,6 +1335,18 @@
         "light": {
           "value": "{ExtensionColors.120.light}",
           "type": "color"
+        },
+        "gradLine-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s3.active} 0%, {Brand.s3.default} 100%)",
+          "type": "color"
+        },
+        "gradLine-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s3.default} 0%, {Brand.s3.hover} 100%)",
+          "type": "color"
+        },
+        "gradLine-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s3.light} 0%, #ffffff 100%)",
+          "type": "color"
         }
       },
       "s4": {
@@ -1328,6 +1364,18 @@
         },
         "light": {
           "value": "{ExtensionColors.180.light}",
+          "type": "color"
+        },
+        "gradLine-a-d": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s4.active} 0%, {Brand.s4.default} 100%)",
+          "type": "color"
+        },
+        "gradLine-d-h": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s4.default} 0%, {Brand.s4.hover} 100%)",
+          "type": "color"
+        },
+        "gradLine-l-white": {
+          "value": "linear-gradient({LineGradDeg.default}, {Brand.s4.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       }

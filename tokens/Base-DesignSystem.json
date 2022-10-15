@@ -126,52 +126,52 @@
       }
     },
     "Neutral": {
-      "text-primary一级信息-标题": {
+      "gray-primary一级信息-标题": {
         "value": "hsla(0,0,0,.88)",
         "type": "color",
         "description": "一级信息-标题"
       },
-      "text-secondary次级信息、正文内容": {
+      "gray-secondary次级信息、正文内容": {
         "value": "hsla(0,0,0,.74)",
         "type": "color",
         "description": "次级信息、正文内容"
       },
-      "text-sub辅助性、描述": {
+      "gray-sub辅助性、描述": {
         "value": "hsla(0,0,0,.45)",
         "type": "color",
         "description": "辅助性、描述"
       },
-      "text-disabled不可操作": {
+      "gray-disabled不可操作": {
         "value": "hsla(0,0,0,.25)",
         "type": "color",
         "description": "不可操作"
       },
-      "border-strong分割线深": {
+      "gray-borStrong分割线深": {
         "value": "hsla(0,0,0,.15)",
         "type": "color",
         "description": "分割线深"
       },
-      "border-weak分割线浅": {
+      "gray-borWeak分割线浅": {
         "value": "hsla(0,0,0,.06)",
         "type": "color",
         "description": "分割线浅"
       },
-      "icon-primary主图标": {
+      "gray-iconPrimary主图标": {
         "value": "hsla(0,0,0,.69)",
         "type": "color",
         "description": "主图标"
       },
-      "icon-disabled浅图标": {
+      "gray-iconDisabled浅图标": {
         "value": "hsla(0,0,0,.25)",
         "type": "color",
         "description": "浅图标"
       },
-      "bg-dividers块背景": {
+      "gray-bgDividers块背景": {
         "value": "hsla(0,0,0,.04)",
         "type": "color",
         "description": "块背景"
       },
-      "bg-page大面积背景": {
+      "gray-bgPage大面积背景": {
         "value": "hsla(0,0,0,.02)",
         "type": "color",
         "description": "大面积背景"

@@ -1,5 +1,5 @@
 {
-  "Base-Design-System": {
+  "Base-DesignSystem": {
     "fontFamilies": {
       "PC": {
         "value": "Microsoft YaHei UI",
@@ -541,7 +541,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Base-Design-System"
+      "Base-DesignSystem"
     ]
   }
 }

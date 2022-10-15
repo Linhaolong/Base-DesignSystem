@@ -125,7 +125,7 @@
         "type": "letterSpacing"
       }
     },
-    "Neutral": {
+    "GrayColor": {
       "gray-primary一级信息-标题": {
         "value": "hsla(0,0,0,.88)",
         "type": "color",

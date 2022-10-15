@@ -1245,22 +1245,6 @@
         "light": {
           "value": "$24ColorRange.primary.1",
           "type": "color"
-        },
-        "gradLine-a-d": {
-          "value": "{ExtensionColors.0.grad-line-a-d}",
-          "type": "color"
-        },
-        "gradLine-d-h": {
-          "value": "{ExtensionColors.0.grad-line-d-h}",
-          "type": "color"
-        },
-        "gradLine-h-l": {
-          "value": "{ExtensionColors.0.grad-line-h-l}",
-          "type": "color"
-        },
-        "gradLine-l-white": {
-          "value": "{ExtensionColors.0.grad-line-l-white}",
-          "type": "color"
         }
       },
       "s1": {
@@ -1278,22 +1262,6 @@
         },
         "light": {
           "value": "{ExtensionColors.165.light}",
-          "type": "color"
-        },
-        "gradLine-a-d": {
-          "value": "{ExtensionColors.165.grad-line-a-d}",
-          "type": "color"
-        },
-        "gradLine-d-h": {
-          "value": "{ExtensionColors.165.grad-line-d-h}",
-          "type": "color"
-        },
-        "gradLine-h-l": {
-          "value": "{ExtensionColors.165.grad-line-h-l}",
-          "type": "color"
-        },
-        "gradLine-l-white": {
-          "value": "{ExtensionColors.165.grad-line-l-white}",
           "type": "color"
         }
       },
@@ -1313,22 +1281,6 @@
         "light": {
           "value": "{ExtensionColors.300.light}",
           "type": "color"
-        },
-        "gradLine-a-d": {
-          "value": "{ExtensionColors.300.grad-line-a-d}",
-          "type": "color"
-        },
-        "gradLine-d-h": {
-          "value": "{ExtensionColors.300.grad-line-d-h}",
-          "type": "color"
-        },
-        "gradLine-l-white": {
-          "value": "{ExtensionColors.300.grad-line-l-white}",
-          "type": "color"
-        },
-        "gradLine-h-l": {
-          "value": "{ExtensionColors.300.grad-line-h-l}",
-          "type": "color"
         }
       },
       "s3": {
@@ -1347,22 +1299,6 @@
         "light": {
           "value": "{ExtensionColors.120.light}",
           "type": "color"
-        },
-        "gradLine-a-d": {
-          "value": "{ExtensionColors.120.grad-line-a-d}",
-          "type": "color"
-        },
-        "gradLine-d-h": {
-          "value": "{ExtensionColors.120.grad-line-d-h}",
-          "type": "color"
-        },
-        "gradLine-h-l": {
-          "value": "{ExtensionColors.120.grad-line-h-l}",
-          "type": "color"
-        },
-        "gradLine-l-white": {
-          "value": "{ExtensionColors.120.grad-line-l-white}",
-          "type": "color"
         }
       },
       "s4": {
@@ -1380,22 +1316,6 @@
         },
         "light": {
           "value": "{ExtensionColors.180.light}",
-          "type": "color"
-        },
-        "gradLine-a-d": {
-          "value": "{ExtensionColors.180.grad-line-a-d}",
-          "type": "color"
-        },
-        "gradLine-d-h": {
-          "value": "{ExtensionColors.180.grad-line-d-h}",
-          "type": "color"
-        },
-        "gradLine-h-l": {
-          "value": "{ExtensionColors.180.grad-line-h-l}",
-          "type": "color"
-        },
-        "gradLine-l-white": {
-          "value": "{ExtensionColors.180.grad-line-l-white}",
           "type": "color"
         }
       }

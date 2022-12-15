@@ -2265,24 +2265,24 @@
         "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.hover} 0%, {ExtColor.60.hover} 100%)",
         "type": "color"
       },
-      "15-75": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15.hover} 0%, {ExtColor.75.hover} 100%)",
+      "s1-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.s1.hover} 0%, {ExtColor.0.hover} 100%)",
         "type": "color"
       },
-      "30-90": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30.hover} 0%, {ExtColor.90.hover} 100%)",
+      "s2-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.s2.hover} 0%, {ExtColor.90.hover} 100%)",
         "type": "color"
       },
-      "45-105": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45.hover} 0%, {ExtColor.105.hover} 100%)",
+      "s3-180": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.s3.hover} 0%, {ExtColor.180.hover} 100%)",
         "type": "color"
       },
-      "60-120": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60.hover} 0%, {ExtColor.120.hover} 100%)",
+      "s4-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.s4.hover} 0%, {ExtColor.225.hover} 100%)",
         "type": "color"
       },
-      "75-135": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.75.hover} 0%, {ExtColor.135.hover} 100%)",
+      "s5-240": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.s5.hover} 0%, {ExtColor.240.hover} 100%)",
         "type": "color"
       }
     }

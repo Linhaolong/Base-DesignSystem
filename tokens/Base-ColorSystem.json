@@ -1249,24 +1249,6 @@
       },
       "s1": {
         "default": {
-          "value": "{ExtColor.165.default}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{ExtColor.165.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{ExtColor.165.active}",
-          "type": "color"
-        },
-        "light": {
-          "value": "{ExtColor.165.light}",
-          "type": "color"
-        }
-      },
-      "s2": {
-        "default": {
           "value": "{ExtColor.300.default}",
           "type": "color"
         },
@@ -1280,6 +1262,24 @@
         },
         "light": {
           "value": "{ExtColor.300.light}",
+          "type": "color"
+        }
+      },
+      "s2": {
+        "default": {
+          "value": "{ExtColor.30.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{ExtColor.30.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{ExtColor.30.active}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{ExtColor.30.light}",
           "type": "color"
         }
       },
@@ -1302,6 +1302,24 @@
         }
       },
       "s4": {
+        "default": {
+          "value": "{ExtColor.165.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{ExtColor.165.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{ExtColor.165.active}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{ExtColor.165.light}",
+          "type": "color"
+        }
+      },
+      "s5": {
         "default": {
           "value": "{ExtColor.180.default}",
           "type": "color"
@@ -2261,6 +2279,10 @@
       },
       "60-120": {
         "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60.hover} 0%, {ExtColor.120.hover} 100%)",
+        "type": "color"
+      },
+      "75-135": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.75.hover} 0%, {ExtColor.135.hover} 100%)",
         "type": "color"
       }
     }

@@ -2241,6 +2241,28 @@
         "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345.default} 0%, {ExtColor.15.default} 100%)",
         "type": "color"
       }
+    },
+    "ExtGrad60Hover": {
+      "primary-60": {
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.hover} 0%, {ExtColor.60.hover} 100%)",
+        "type": "color"
+      },
+      "15-75": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15.hover} 0%, {ExtColor.75.hover} 100%)",
+        "type": "color"
+      },
+      "30-90": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30.hover} 0%, {ExtColor.90.hover} 100%)",
+        "type": "color"
+      },
+      "45-105": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45.hover} 0%, {ExtColor.105.hover} 100%)",
+        "type": "color"
+      },
+      "60-120": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60.hover} 0%, {ExtColor.120.hover} 100%)",
+        "type": "color"
+      }
     }
   },
   "$themes": [],

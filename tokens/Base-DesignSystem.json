@@ -536,6 +536,24 @@
           "description": "xlarge"
         }
       }
+    },
+    "ComponentSpace": {
+      "CS-64": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "CS-88": {
+        "value": "88",
+        "type": "spacing"
+      },
+      "CS-128": {
+        "value": "128",
+        "type": "spacing"
+      },
+      "CS-240": {
+        "value": "240",
+        "type": "spacing"
+      }
     }
   },
   "$themes": [],

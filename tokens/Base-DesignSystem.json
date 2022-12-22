@@ -443,22 +443,6 @@
         }
       }
     },
-    "bor-r1": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "bor-r2": {
-      "value": "$bor-r1 * 2",
-      "type": "borderRadius"
-    },
-    "bor-r3": {
-      "value": "$bor-r1 * 4",
-      "type": "borderRadius"
-    },
-    "bor-r4": {
-      "value": "$bor-r1 * 6",
-      "type": "borderRadius"
-    },
     "PC": {
       "Icon": {
         "xsmall-16": {

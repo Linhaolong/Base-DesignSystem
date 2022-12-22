@@ -443,26 +443,6 @@
         }
       }
     },
-    "spac-1": {
-      "value": "4",
-      "type": "spacing"
-    },
-    "spac-2": {
-      "value": "$spac-1 * 2",
-      "type": "spacing"
-    },
-    "spac-3": {
-      "value": "$spac-1 * 4",
-      "type": "spacing"
-    },
-    "spac-4": {
-      "value": "$spac-1 * 6",
-      "type": "spacing"
-    },
-    "spac-5": {
-      "value": "$spac-1 * 8",
-      "type": "spacing"
-    },
     "bor-r1": {
       "value": "4",
       "type": "borderRadius"

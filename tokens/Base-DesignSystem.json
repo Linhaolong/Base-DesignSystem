@@ -474,8 +474,8 @@
     },
     "APP": {
       "Icon": {
-        "xsmall-32": {
-          "value": "32",
+        "xsmall-24": {
+          "value": "24",
           "type": "sizing",
           "description": "xsmall"
         },

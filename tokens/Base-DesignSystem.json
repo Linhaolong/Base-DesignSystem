@@ -500,6 +500,118 @@
           "description": "xlarge"
         }
       }
+    },
+    "一级阴影-小元素": {
+      "value": {
+        "color": "#1e293b0d",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 1,
+        "blur": 2,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "小元素阴影"
+    },
+    "二级阴影-中元素": {
+      "value": [
+        {
+          "color": "#1e293b1a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 3,
+          "spread": 0
+        },
+        {
+          "color": "#1e293b0f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 2,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow",
+      "description": "中元素阴影"
+    },
+    "三级阴影-Hover": {
+      "value": [
+        {
+          "color": "#1e293b1a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 6,
+          "spread": -1
+        },
+        {
+          "color": "#1e293b0f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": -1
+        }
+      ],
+      "type": "boxShadow",
+      "description": "小、中、元素获焦"
+    },
+    "四级阴影-大元素": {
+      "value": [
+        {
+          "color": "#1e293b1a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 10,
+          "blur": 15,
+          "spread": -3
+        },
+        {
+          "color": "#1e293b0d",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 6,
+          "spread": -2
+        }
+      ],
+      "type": "boxShadow",
+      "description": "大元素阴影"
+    },
+    "五级阴影-大元素Hover": {
+      "value": [
+        {
+          "color": "#0f172a1a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 20,
+          "blur": 25,
+          "spread": -5
+        },
+        {
+          "color": "#0f172a0a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 10,
+          "blur": 10,
+          "spread": -5
+        }
+      ],
+      "type": "boxShadow",
+      "description": "大元素Hover阴影"
+    },
+    "六级阴影-浮动,最顶层": {
+      "value": {
+        "color": "#1e293b40",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 25,
+        "blur": 50,
+        "spread": -12
+      },
+      "type": "boxShadow",
+      "description": "浮动层阴影"
     }
   },
   "$themes": [],

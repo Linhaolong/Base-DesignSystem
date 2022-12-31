@@ -1475,11 +1475,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "$24ColorRange.primary.4",
+          "value": "$24ColorRange.primary.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.primary.8",
+          "value": "$24ColorRange.primary.7",
           "type": "color"
         },
         "light": {
@@ -1586,11 +1586,11 @@
           "description": "0° - 主色primary"
         },
         "hover": {
-          "value": "$24ColorRange.primary.4",
+          "value": "$24ColorRange.primary.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.primary.8",
+          "value": "$24ColorRange.primary.7",
           "type": "color"
         },
         "light": {
@@ -1621,11 +1621,11 @@
           "description": "15° - 同类色"
         },
         "hover": {
-          "value": "$24ColorRange.ec1.4",
+          "value": "$24ColorRange.ec1.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec1.8",
+          "value": "$24ColorRange.ec1.7",
           "type": "color"
         },
         "light": {
@@ -1656,11 +1656,11 @@
           "description": "30°- 类似色"
         },
         "hover": {
-          "value": "$24ColorRange.ec2.4",
+          "value": "$24ColorRange.ec2.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec2.8",
+          "value": "$24ColorRange.ec2.7",
           "type": "color"
         },
         "light": {
@@ -1691,11 +1691,11 @@
           "description": "45° - 近似色"
         },
         "hover": {
-          "value": "$24ColorRange.ec3.4",
+          "value": "$24ColorRange.ec3.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec3.8",
+          "value": "$24ColorRange.ec3.7",
           "type": "color"
         },
         "light": {
@@ -1726,11 +1726,11 @@
           "description": "60°- 邻近色"
         },
         "hover": {
-          "value": "$24ColorRange.ec4.4",
+          "value": "$24ColorRange.ec4.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec4.8",
+          "value": "$24ColorRange.ec4.7",
           "type": "color"
         },
         "light": {
@@ -1761,11 +1761,11 @@
           "description": "75°"
         },
         "hover": {
-          "value": "$24ColorRange.ec5.4",
+          "value": "$24ColorRange.ec5.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec5.8",
+          "value": "$24ColorRange.ec5.7",
           "type": "color"
         },
         "light": {
@@ -1796,11 +1796,11 @@
           "description": "90°- 中性色"
         },
         "hover": {
-          "value": "$24ColorRange.ec6.4",
+          "value": "$24ColorRange.ec6.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec6.8",
+          "value": "$24ColorRange.ec6.7",
           "type": "color"
         },
         "light": {
@@ -1831,11 +1831,11 @@
           "description": "105°"
         },
         "hover": {
-          "value": "$24ColorRange.ec7.4",
+          "value": "$24ColorRange.ec7.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec7.8",
+          "value": "$24ColorRange.ec7.7",
           "type": "color"
         },
         "light": {
@@ -1866,11 +1866,11 @@
           "description": "120°- 对比色"
         },
         "hover": {
-          "value": "$24ColorRange.ec8.4",
+          "value": "$24ColorRange.ec8.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec8.8",
+          "value": "$24ColorRange.ec8.7",
           "type": "color"
         },
         "light": {
@@ -1901,11 +1901,11 @@
           "description": "135°"
         },
         "hover": {
-          "value": "$24ColorRange.ec9.4",
+          "value": "$24ColorRange.ec9.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec9.8",
+          "value": "$24ColorRange.ec9.7",
           "type": "color"
         },
         "light": {
@@ -1936,11 +1936,11 @@
           "description": "150°"
         },
         "hover": {
-          "value": "$24ColorRange.ec10.4",
+          "value": "$24ColorRange.ec10.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec10.8",
+          "value": "$24ColorRange.ec10.7",
           "type": "color"
         },
         "light": {
@@ -1971,11 +1971,11 @@
           "description": "165°"
         },
         "hover": {
-          "value": "$24ColorRange.ec11.4",
+          "value": "$24ColorRange.ec11.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec11.8",
+          "value": "$24ColorRange.ec11.7",
           "type": "color"
         },
         "light": {
@@ -2006,11 +2006,11 @@
           "description": "180° - 互补色"
         },
         "hover": {
-          "value": "$24ColorRange.ec12.4",
+          "value": "$24ColorRange.ec12.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec12.8",
+          "value": "$24ColorRange.ec12.7",
           "type": "color"
         },
         "light": {
@@ -2041,11 +2041,11 @@
           "description": "195°"
         },
         "hover": {
-          "value": "$24ColorRange.ec13.4",
+          "value": "$24ColorRange.ec13.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec13.8",
+          "value": "$24ColorRange.ec13.7",
           "type": "color"
         },
         "light": {
@@ -2076,11 +2076,11 @@
           "description": "210°"
         },
         "hover": {
-          "value": "$24ColorRange.ec14.4",
+          "value": "$24ColorRange.ec14.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec14.8",
+          "value": "$24ColorRange.ec14.7",
           "type": "color"
         },
         "light": {
@@ -2111,11 +2111,11 @@
           "description": "225°"
         },
         "hover": {
-          "value": "$24ColorRange.ec15.4",
+          "value": "$24ColorRange.ec15.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec15.8",
+          "value": "$24ColorRange.ec15.7",
           "type": "color"
         },
         "light": {
@@ -2146,11 +2146,11 @@
           "description": "240° - 对比色"
         },
         "hover": {
-          "value": "$24ColorRange.ec16.4",
+          "value": "$24ColorRange.ec16.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec16.8",
+          "value": "$24ColorRange.ec16.7",
           "type": "color"
         },
         "light": {
@@ -2181,11 +2181,11 @@
           "description": "255°"
         },
         "hover": {
-          "value": "$24ColorRange.ec17.4",
+          "value": "$24ColorRange.ec17.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec17.8",
+          "value": "$24ColorRange.ec17.7",
           "type": "color"
         },
         "light": {
@@ -2216,11 +2216,11 @@
           "description": "270° - 中性色"
         },
         "hover": {
-          "value": "$24ColorRange.ec18.4",
+          "value": "$24ColorRange.ec18.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec18.8",
+          "value": "$24ColorRange.ec18.7",
           "type": "color"
         },
         "light": {
@@ -2251,11 +2251,11 @@
           "description": "285°"
         },
         "hover": {
-          "value": "$24ColorRange.ec19.4",
+          "value": "$24ColorRange.ec19.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec19.8",
+          "value": "$24ColorRange.ec19.7",
           "type": "color"
         },
         "light": {
@@ -2286,11 +2286,11 @@
           "description": "300° - 邻近色"
         },
         "hover": {
-          "value": "$24ColorRange.ec20.4",
+          "value": "$24ColorRange.ec20.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec20.8",
+          "value": "$24ColorRange.ec20.7",
           "type": "color"
         },
         "light": {
@@ -2321,11 +2321,11 @@
           "description": "315° - 近似色"
         },
         "hover": {
-          "value": "$24ColorRange.ec21.4",
+          "value": "$24ColorRange.ec21.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec21.8",
+          "value": "$24ColorRange.ec21.7",
           "type": "color"
         },
         "light": {
@@ -2356,11 +2356,11 @@
           "description": "330° - 类似色"
         },
         "hover": {
-          "value": "$24ColorRange.ec22.4",
+          "value": "$24ColorRange.ec22.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec22.8",
+          "value": "$24ColorRange.ec22.7",
           "type": "color"
         },
         "light": {
@@ -2391,11 +2391,11 @@
           "description": "345° - 同类色"
         },
         "hover": {
-          "value": "$24ColorRange.ec23.4",
+          "value": "$24ColorRange.ec23.5",
           "type": "color"
         },
         "active": {
-          "value": "$24ColorRange.ec23.8",
+          "value": "$24ColorRange.ec23.7",
           "type": "color"
         },
         "light": {

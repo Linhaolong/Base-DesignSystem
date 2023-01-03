@@ -1975,7 +1975,7 @@
           "description": "新增配色-1"
         },
         "hover": {
-          "value": "$12ColorRange.ecadd-1.3",
+          "value": "$12ColorRange.ecadd-1.4",
           "type": "color"
         },
         "active": {

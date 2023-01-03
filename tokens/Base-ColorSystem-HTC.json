@@ -1979,7 +1979,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ecadd-1.9",
+          "value": "$12ColorRange.ecadd-1.6",
           "type": "color"
         },
         "light": {

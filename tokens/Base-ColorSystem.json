@@ -1267,37 +1267,37 @@
       },
       "s2": {
         "default": {
-          "value": "{ExtColor.15° - 同类色.default}",
+          "value": "{ExtColor.15°.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtColor.15° - 同类色.hover}",
+          "value": "{ExtColor.15°.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtColor.15° - 同类色.active}",
+          "value": "{ExtColor.15°.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtColor.15° - 同类色.light}",
+          "value": "{ExtColor.15°.light}",
           "type": "color"
         }
       },
       "s3": {
         "default": {
-          "value": "{ExtColor.90°- 中性色.default}",
+          "value": "{ExtColor.90°.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{ExtColor.90°- 中性色.hover}",
+          "value": "{ExtColor.90°.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{ExtColor.90°- 中性色.active}",
+          "value": "{ExtColor.90°.active}",
           "type": "color"
         },
         "light": {
-          "value": "{ExtColor.90°- 中性色.light}",
+          "value": "{ExtColor.90°.light}",
           "type": "color"
         }
       },
@@ -1374,11 +1374,11 @@
           "type": "color"
         }
       },
-      "15° - 同类色": {
+      "15°": {
         "default": {
           "value": "$24ColorRange.ec1.6",
           "type": "color",
-          "description": "15° - 同类色"
+          "description": "15°"
         },
         "hover": {
           "value": "$24ColorRange.ec1.4",
@@ -1393,27 +1393,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15° - 同类色.active} 0%, {ExtColor.15° - 同类色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15°.active} 0%, {ExtColor.15°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15° - 同类色.default} 0%, {ExtColor.15° - 同类色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15°.default} 0%, {ExtColor.15°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15° - 同类色.hover} 0%, {ExtColor.15° - 同类色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15°.hover} 0%, {ExtColor.15°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15° - 同类色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "30°- 类似色": {
+      "30°": {
         "default": {
           "value": "$24ColorRange.ec2.6",
           "type": "color",
-          "description": "30°- 类似色"
+          "description": "30°"
         },
         "hover": {
           "value": "$24ColorRange.ec2.4",
@@ -1428,27 +1428,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°- 类似色.active} 0%, {ExtColor.30°- 类似色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°.active} 0%, {ExtColor.30°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°- 类似色.default} 0%, {ExtColor.30°- 类似色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°.default} 0%, {ExtColor.30°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°- 类似色.hover} 0%, {ExtColor.30°- 类似色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°.hover} 0%, {ExtColor.30°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°- 类似色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "45° - 近似色": {
+      "45°": {
         "default": {
           "value": "$24ColorRange.ec3.6",
           "type": "color",
-          "description": "45° - 近似色"
+          "description": "45°"
         },
         "hover": {
           "value": "$24ColorRange.ec3.4",
@@ -1463,27 +1463,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45° - 近似色.active} 0%, {ExtColor.45° - 近似色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45°.active} 0%, {ExtColor.45°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45° - 近似色.default} 0%, {ExtColor.45° - 近似色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45°.default} 0%, {ExtColor.45°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45° - 近似色.hover} 0%, {ExtColor.45° - 近似色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45°.hover} 0%, {ExtColor.45°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45° - 近似色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "60°- 邻近色": {
+      "60°": {
         "default": {
           "value": "$24ColorRange.ec4.6",
           "type": "color",
-          "description": "60°- 邻近色"
+          "description": "60°"
         },
         "hover": {
           "value": "$24ColorRange.ec4.4",
@@ -1498,19 +1498,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°- 邻近色.active} 0%, {ExtColor.60°- 邻近色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°.active} 0%, {ExtColor.60°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°- 邻近色.default} 0%, {ExtColor.60°- 邻近色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°.default} 0%, {ExtColor.60°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°- 邻近色.hover} 0%, {ExtColor.60°- 邻近色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°.hover} 0%, {ExtColor.60°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°- 邻近色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1549,11 +1549,11 @@
           "type": "color"
         }
       },
-      "90°- 中性色": {
+      "90°": {
         "default": {
           "value": "$24ColorRange.ec6.6",
           "type": "color",
-          "description": "90°- 中性色"
+          "description": "90°"
         },
         "hover": {
           "value": "$24ColorRange.ec6.4",
@@ -1568,19 +1568,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°- 中性色.active} 0%, {ExtColor.90°- 中性色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°.active} 0%, {ExtColor.90°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°- 中性色.default} 0%, {ExtColor.90°- 中性色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°.default} 0%, {ExtColor.90°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°- 中性色.hover} 0%, {ExtColor.90°- 中性色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°.hover} 0%, {ExtColor.90°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°- 中性色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1619,11 +1619,11 @@
           "type": "color"
         }
       },
-      "120° - 对比色": {
+      "120°": {
         "default": {
           "value": "$24ColorRange.ec8.6",
           "type": "color",
-          "description": "120°- 对比色"
+          "description": "120°"
         },
         "hover": {
           "value": "$24ColorRange.ec8.4",
@@ -1638,19 +1638,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120° - 对比色.active} 0%, {ExtColor.120° - 对比色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120°.active} 0%, {ExtColor.120°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120° - 对比色.default} 0%, {ExtColor.120° - 对比色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120°.default} 0%, {ExtColor.120°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120° - 对比色.hover} 0%, {ExtColor.120° - 对比色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120°.hover} 0%, {ExtColor.120°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120° - 对比色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1759,11 +1759,11 @@
           "type": "color"
         }
       },
-      "180° - 互补色": {
+      "180°": {
         "default": {
           "value": "$24ColorRange.ec12.6",
           "type": "color",
-          "description": "180° - 互补色"
+          "description": "180°"
         },
         "hover": {
           "value": "$24ColorRange.ec12.4",
@@ -1778,19 +1778,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180° - 互补色.active} 0%, {ExtColor.180° - 互补色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180°.active} 0%, {ExtColor.180°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180° - 互补色.default} 0%, {ExtColor.180° - 互补色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180°.default} 0%, {ExtColor.180°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180° - 互补色.hover} 0%, {ExtColor.180° - 互补色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180°.hover} 0%, {ExtColor.180°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180° - 互补色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1899,11 +1899,11 @@
           "type": "color"
         }
       },
-      "240° - 对比色": {
+      "240°": {
         "default": {
           "value": "$24ColorRange.ec16.6",
           "type": "color",
-          "description": "240° - 对比色"
+          "description": "240°"
         },
         "hover": {
           "value": "$24ColorRange.ec16.4",
@@ -1918,19 +1918,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240° - 对比色.active} 0%, {ExtColor.240° - 对比色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240°.active} 0%, {ExtColor.240°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240° - 对比色.default} 0%, {ExtColor.240° - 对比色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240°.default} 0%, {ExtColor.240°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240° - 对比色.hover} 0%, {ExtColor.240° - 对比色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240°.hover} 0%, {ExtColor.240°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240° - 对比色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -1969,11 +1969,11 @@
           "type": "color"
         }
       },
-      "270° - 中性色": {
+      "270°": {
         "default": {
           "value": "$24ColorRange.ec18.6",
           "type": "color",
-          "description": "270° - 中性色"
+          "description": "270°"
         },
         "hover": {
           "value": "$24ColorRange.ec18.4",
@@ -1988,19 +1988,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270° - 中性色.active} 0%, {ExtColor.270° - 中性色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270°.active} 0%, {ExtColor.270°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270° - 中性色.default} 0%, {ExtColor.270° - 中性色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270°.default} 0%, {ExtColor.270°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270° - 中性色.hover} 0%, {ExtColor.270° - 中性色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270°.hover} 0%, {ExtColor.270°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270° - 中性色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
@@ -2039,11 +2039,11 @@
           "type": "color"
         }
       },
-      "300° - 邻近色": {
+      "300° ": {
         "default": {
           "value": "$24ColorRange.ec20.6",
           "type": "color",
-          "description": "300° - 邻近色"
+          "description": "300° "
         },
         "hover": {
           "value": "$24ColorRange.ec20.4",
@@ -2058,27 +2058,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° - 邻近色.active} 0%, {ExtColor.300° - 邻近色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° .active} 0%, {ExtColor.300° .default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° - 邻近色.default} 0%, {ExtColor.300° - 邻近色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° .default} 0%, {ExtColor.300° .hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° - 邻近色.hover} 0%, {ExtColor.300° - 邻近色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° .hover} 0%, {ExtColor.300° .light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° - 邻近色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° .light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "315° - 近似色": {
+      "315°": {
         "default": {
           "value": "$24ColorRange.ec21.6",
           "type": "color",
-          "description": "315° - 近似色"
+          "description": "315°"
         },
         "hover": {
           "value": "$24ColorRange.ec21.4",
@@ -2093,27 +2093,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315° - 近似色.active} 0%, {ExtColor.315° - 近似色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315°.active} 0%, {ExtColor.315°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315° - 近似色.default} 0%, {ExtColor.315° - 近似色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315°.default} 0%, {ExtColor.315°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315° - 近似色.hover} 0%, {ExtColor.315° - 近似色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315°.hover} 0%, {ExtColor.315°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315° - 近似色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "330° - 类似色": {
+      "330°": {
         "default": {
           "value": "$24ColorRange.ec22.6",
           "type": "color",
-          "description": "330° - 类似色"
+          "description": "330°"
         },
         "hover": {
           "value": "$24ColorRange.ec22.4",
@@ -2128,27 +2128,27 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330° - 类似色.active} 0%, {ExtColor.330° - 类似色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.active} 0%, {ExtColor.330°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330° - 类似色.default} 0%, {ExtColor.330° - 类似色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.default} 0%, {ExtColor.330°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330° - 类似色.hover} 0%, {ExtColor.330° - 类似色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.hover} 0%, {ExtColor.330°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330° - 类似色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       },
-      "345° - 同类色": {
+      "345°": {
         "default": {
           "value": "$24ColorRange.ec23.6",
           "type": "color",
-          "description": "345° - 同类色"
+          "description": "345°"
         },
         "hover": {
           "value": "$24ColorRange.ec23.4",
@@ -2163,19 +2163,19 @@
           "type": "color"
         },
         "grad-line-a-d": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345° - 同类色.active} 0%, {ExtColor.345° - 同类色.default} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345°.active} 0%, {ExtColor.345°.default} 100%)",
           "type": "color"
         },
         "grad-line-d-h": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345° - 同类色.default} 0%, {ExtColor.345° - 同类色.hover} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345°.default} 0%, {ExtColor.345°.hover} 100%)",
           "type": "color"
         },
         "grad-line-h-l": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345° - 同类色.hover} 0%, {ExtColor.345° - 同类色.light} 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345°.hover} 0%, {ExtColor.345°.light} 100%)",
           "type": "color"
         },
         "grad-line-l-white": {
-          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345° - 同类色.light} 0%, #ffffff 100%)",
+          "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345°.light} 0%, #ffffff 100%)",
           "type": "color"
         }
       }
@@ -2188,23 +2188,23 @@
     },
     "ExtGrad30": {
       "primary-30": {
-        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {ExtColor.30°- 类似色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {Brand.primary.default} 0%, {ExtColor.30°.default} 100%)",
         "type": "color"
       },
       "15-45": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15° - 同类色.default} 0%, {ExtColor.45° - 近似色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.15°.default} 0%, {ExtColor.45°.default} 100%)",
         "type": "color"
       },
       "30-60": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°- 类似色.default} 0%, {ExtColor.60°- 邻近色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.30°.default} 0%, {ExtColor.60°.default} 100%)",
         "type": "color"
       },
       "45-75": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45° - 近似色.default} 0%, {ExtColor.75°.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.45°.default} 0%, {ExtColor.75°.default} 100%)",
         "type": "color"
       },
       "60-90": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°- 邻近色.default} 0%, {ExtColor.90°- 中性色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.60°.default} 0%, {ExtColor.90°.default} 100%)",
         "type": "color"
       },
       "75-105": {
@@ -2212,7 +2212,7 @@
         "type": "color"
       },
       "90-120": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°- 中性色.default} 0%, {ExtColor.120° - 对比色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.90°.default} 0%, {ExtColor.120°.default} 100%)",
         "type": "color"
       },
       "105-135": {
@@ -2220,7 +2220,7 @@
         "type": "color"
       },
       "120-150": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120° - 对比色.default} 0%, {ExtColor.150°.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.120°.default} 0%, {ExtColor.150°.default} 100%)",
         "type": "color"
       },
       "135-165": {
@@ -2228,7 +2228,7 @@
         "type": "color"
       },
       "150-180": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.150°.default} 0%, {ExtColor.180° - 互补色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.150°.default} 0%, {ExtColor.180°.default} 100%)",
         "type": "color"
       },
       "165-195": {
@@ -2236,7 +2236,7 @@
         "type": "color"
       },
       "180-210": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180° - 互补色.default} 0%, {ExtColor.210°.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.180°.default} 0%, {ExtColor.210°.default} 100%)",
         "type": "color"
       },
       "195-225": {
@@ -2244,7 +2244,7 @@
         "type": "color"
       },
       "210-240": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.210°.default} 0%, {ExtColor.240° - 对比色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.210°.default} 0%, {ExtColor.240°.default} 100%)",
         "type": "color"
       },
       "225-255": {
@@ -2252,7 +2252,7 @@
         "type": "color"
       },
       "240-270": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240° - 对比色.default} 0%, {ExtColor.270° - 中性色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.240°.default} 0%, {ExtColor.270°.default} 100%)",
         "type": "color"
       },
       "255-285": {
@@ -2260,27 +2260,27 @@
         "type": "color"
       },
       "270-300": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270° - 中性色.default} 0%, {ExtColor.300° - 邻近色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.270°.default} 0%, {ExtColor.300° .default} 100%)",
         "type": "color"
       },
       "285-315": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.285°.default} 0%, {ExtColor.315° - 近似色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.285°.default} 0%, {ExtColor.315°.default} 100%)",
         "type": "color"
       },
       "300-330": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° - 邻近色.default} 0%, {ExtColor.330° - 类似色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300° .default} 0%, {ExtColor.330°.default} 100%)",
         "type": "color"
       },
       "315-345": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315° - 近似色.default} 0%, {ExtColor.345° - 同类色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.315°.default} 0%, {ExtColor.345°.default} 100%)",
         "type": "color"
       },
       "330-primary": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330° - 类似色.default} 0%, {Brand.primary.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.default} 0%, {Brand.primary.default} 100%)",
         "type": "color"
       },
       "345-15": {
-        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345° - 同类色.default} 0%, {ExtColor.15° - 同类色.default} 100%)",
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.345°.default} 0%, {ExtColor.15°.default} 100%)",
         "type": "color"
       }
     }

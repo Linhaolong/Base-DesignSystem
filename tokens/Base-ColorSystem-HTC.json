@@ -1263,78 +1263,6 @@
     }
   },
   "Brand-ColorSystem": {
-    "CoreColor": {
-      "primarypri": {
-        "value": "#4252ff",
-        "type": "color",
-        "description": "4252FF"
-      },
-      "30pri": {
-        "value": "#9142ff",
-        "type": "color",
-        "description": "9142FF"
-      },
-      "60pri": {
-        "value": "#ed2eff",
-        "type": "color",
-        "description": "ED2DFE"
-      },
-      "90pri": {
-        "value": "#ed2eff",
-        "type": "color",
-        "description": "ED2DFE"
-      },
-      "120pri": {
-        "value": "#fa3d4d",
-        "type": "color",
-        "description": "FA3D4D"
-      },
-      "150pri": {
-        "value": "#ff7f24",
-        "type": "color",
-        "description": "FE7F23"
-      },
-      "180pri": {
-        "value": "#e4d20c",
-        "type": "color",
-        "description": "E3D10B"
-      },
-      "210pri": {
-        "value": "#84da0b",
-        "type": "color",
-        "description": "83DA0B"
-      },
-      "240pri": {
-        "value": "#1ee40c",
-        "type": "color",
-        "description": "1EE30B"
-      },
-      "270pri": {
-        "value": "#0bda62",
-        "type": "color",
-        "description": "0BDA61"
-      },
-      "300pri": {
-        "value": "#0bdac9",
-        "type": "color",
-        "description": "0BDAC8"
-      },
-      "330pri": {
-        "value": "#0693f9",
-        "type": "color",
-        "description": "0693F9"
-      },
-      "ecadd1pri": {
-        "value": "#f9b11f",
-        "type": "color",
-        "description": "F9B11F"
-      },
-      "ecadd2pri": {
-        "value": "#6242ff",
-        "type": "color",
-        "description": "6242FF"
-      }
-    },
     "Brand": {
       "primary": {
         "default": {
@@ -1550,16 +1478,16 @@
     "ExtColor": {
       "0°": {
         "default": {
-          "value": "$CoreColor.primarypri",
+          "value": "$12ColorRange.primary.6",
           "type": "color",
           "description": "0° - 主色primary"
         },
         "hover": {
-          "value": "$12ColorRange.primary.7",
+          "value": "$12ColorRange.primary.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.primary.9",
+          "value": "$12ColorRange.primary.8",
           "type": "color"
         },
         "light": {
@@ -1585,16 +1513,16 @@
       },
       "30°": {
         "default": {
-          "value": "$CoreColor.30pri",
+          "value": "$12ColorRange.ec1.6",
           "type": "color",
           "description": "30°- 类似色"
         },
         "hover": {
-          "value": "$12ColorRange.ec1.7",
+          "value": "$12ColorRange.ec1.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec1.9",
+          "value": "$12ColorRange.ec1.8",
           "type": "color"
         },
         "light": {
@@ -1620,16 +1548,16 @@
       },
       "60°": {
         "default": {
-          "value": "$CoreColor.60pri",
+          "value": "$12ColorRange.ec2.6",
           "type": "color",
           "description": "60°"
         },
         "hover": {
-          "value": "$12ColorRange.ec2.7",
+          "value": "$12ColorRange.ec2.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec2.9",
+          "value": "$12ColorRange.ec2.8",
           "type": "color"
         },
         "light": {
@@ -1655,16 +1583,16 @@
       },
       "90°": {
         "default": {
-          "value": "$CoreColor.90pri",
+          "value": "$12ColorRange.ec3.6",
           "type": "color",
           "description": "90°"
         },
         "hover": {
-          "value": "$12ColorRange.ec3.7",
+          "value": "$12ColorRange.ec3.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec3.9",
+          "value": "$12ColorRange.ec3.8",
           "type": "color"
         },
         "light": {
@@ -1690,16 +1618,16 @@
       },
       "120°": {
         "default": {
-          "value": "$CoreColor.120pri",
+          "value": "$12ColorRange.ec4.6",
           "type": "color",
           "description": "120°- 对比色"
         },
         "hover": {
-          "value": "$12ColorRange.ec4.7",
+          "value": "$12ColorRange.ec4.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec4.9",
+          "value": "$12ColorRange.ec4.8",
           "type": "color"
         },
         "light": {
@@ -1725,16 +1653,16 @@
       },
       "150°": {
         "default": {
-          "value": "$CoreColor.150pri",
+          "value": "$12ColorRange.ec5.6",
           "type": "color",
           "description": "150°"
         },
         "hover": {
-          "value": "$12ColorRange.ec5.7",
+          "value": "$12ColorRange.ec5.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec5.9",
+          "value": "$12ColorRange.ec5.8",
           "type": "color"
         },
         "light": {
@@ -1760,16 +1688,16 @@
       },
       "180°": {
         "default": {
-          "value": "$CoreColor.180pri",
+          "value": "$12ColorRange.ec6.6",
           "type": "color",
           "description": "180°"
         },
         "hover": {
-          "value": "$12ColorRange.ec6.7",
+          "value": "$12ColorRange.ec6.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec6.9",
+          "value": "$12ColorRange.ec6.8",
           "type": "color"
         },
         "light": {
@@ -1795,16 +1723,16 @@
       },
       "210°": {
         "default": {
-          "value": "$CoreColor.210pri",
+          "value": "$12ColorRange.ec7.6",
           "type": "color",
           "description": "210°"
         },
         "hover": {
-          "value": "$12ColorRange.ec7.7",
+          "value": "$12ColorRange.ec7.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec7.9",
+          "value": "$12ColorRange.ec7.8",
           "type": "color"
         },
         "light": {
@@ -1830,16 +1758,16 @@
       },
       "240°": {
         "default": {
-          "value": "$CoreColor.240pri",
+          "value": "$12ColorRange.ec8.6",
           "type": "color",
           "description": "240°"
         },
         "hover": {
-          "value": "$12ColorRange.ec8.7",
+          "value": "$12ColorRange.ec8.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec8.9",
+          "value": "$12ColorRange.ec8.8",
           "type": "color"
         },
         "light": {
@@ -1865,16 +1793,16 @@
       },
       "270°": {
         "default": {
-          "value": "$CoreColor.270pri",
+          "value": "$12ColorRange.ec9.6",
           "type": "color",
           "description": "270° "
         },
         "hover": {
-          "value": "$12ColorRange.ec9.7",
+          "value": "$12ColorRange.ec9.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec9.9",
+          "value": "$12ColorRange.ec9.8",
           "type": "color"
         },
         "light": {
@@ -1900,16 +1828,16 @@
       },
       "300°": {
         "default": {
-          "value": "$CoreColor.300pri",
+          "value": "$12ColorRange.ec10.6",
           "type": "color",
           "description": "300°"
         },
         "hover": {
-          "value": "$12ColorRange.ec10.7",
+          "value": "$12ColorRange.ec10.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec10.9",
+          "value": "$12ColorRange.ec10.8",
           "type": "color"
         },
         "light": {
@@ -1935,16 +1863,16 @@
       },
       "330°": {
         "default": {
-          "value": "$CoreColor.330pri",
+          "value": "$12ColorRange.ec11.6",
           "type": "color",
           "description": "330°"
         },
         "hover": {
-          "value": "$12ColorRange.ec11.7",
+          "value": "$12ColorRange.ec11.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ec11.9",
+          "value": "$12ColorRange.ec11.8",
           "type": "color"
         },
         "light": {
@@ -1970,7 +1898,7 @@
       },
       "新增配色-1": {
         "default": {
-          "value": "$CoreColor.ecadd1pri",
+          "value": "$12ColorRange.ecadd-1.6",
           "type": "color",
           "description": "新增配色-1"
         },
@@ -1979,7 +1907,7 @@
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ecadd-1.6",
+          "value": "$12ColorRange.ecadd-1.8",
           "type": "color"
         },
         "light": {
@@ -2005,16 +1933,16 @@
       },
       "新增配色-2": {
         "default": {
-          "value": "$CoreColor.ecadd2pri",
+          "value": "$12ColorRange.ecadd-2.6",
           "type": "color",
           "description": "新增配色-1"
         },
         "hover": {
-          "value": "$12ColorRange.ecadd-2.7",
+          "value": "$12ColorRange.ecadd-2.4",
           "type": "color"
         },
         "active": {
-          "value": "$12ColorRange.ecadd-2.9",
+          "value": "$12ColorRange.ecadd-2.8",
           "type": "color"
         },
         "light": {

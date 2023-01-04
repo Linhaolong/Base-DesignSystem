@@ -1562,6 +1562,10 @@
       "300-330": {
         "value": "linear-gradient({LineGradDeg.default}, {ExtColor.300°.default} 0%, {ExtColor.330°.default} 100%)",
         "type": "color"
+      },
+      "330-primary": {
+        "value": "linear-gradient({LineGradDeg.default}, {ExtColor.330°.default} 0%, {Brand.primary.default} 100%)",
+        "type": "color"
       }
     }
   },

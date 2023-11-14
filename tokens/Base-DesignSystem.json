@@ -125,62 +125,6 @@
         "type": "letterSpacing"
       }
     },
-    "GrayColor": {
-      "gray-primary一级信息-标题": {
-        "value": "hsla(0,0,0,.88)",
-        "type": "color",
-        "description": "一级信息-标题"
-      },
-      "gray-secondary次级信息、正文内容": {
-        "value": "hsla(0,0,0,.74)",
-        "type": "color",
-        "description": "次级信息、正文内容"
-      },
-      "gray-sub辅助性、描述": {
-        "value": "hsla(0,0,0,.45)",
-        "type": "color",
-        "description": "辅助性、描述"
-      },
-      "gray-disabled不可操作": {
-        "value": "hsla(0,0,0,.25)",
-        "type": "color",
-        "description": "不可操作"
-      },
-      "gray-borStrong分割线深": {
-        "value": "hsla(0,0,0,.15)",
-        "type": "color",
-        "description": "分割线深"
-      },
-      "gray-borWeak分割线浅": {
-        "value": "hsla(0,0,0,.06)",
-        "type": "color",
-        "description": "分割线浅"
-      },
-      "gray-iconPrimary主图标": {
-        "value": "hsla(0,0,0,.69)",
-        "type": "color",
-        "description": "主图标"
-      },
-      "gray-iconDisabled浅图标": {
-        "value": "hsla(0,0,0,.25)",
-        "type": "color",
-        "description": "浅图标"
-      },
-      "gray-bgDividers块背景": {
-        "value": "hsla(0,0,0,.04)",
-        "type": "color",
-        "description": "块背景"
-      },
-      "gray-bgPage大面积背景": {
-        "value": "hsla(0,0,0,.02)",
-        "type": "color",
-        "description": "大面积背景"
-      },
-      "common-white": {
-        "value": "#ffffff",
-        "type": "color"
-      }
-    },
     "typography": {
       "PC": {
         "text-banner-big": {
@@ -440,64 +384,6 @@
           },
           "type": "typography",
           "description": "带图标文字、tag文字"
-        }
-      }
-    },
-    "PC": {
-      "Icon": {
-        "xsmall-16": {
-          "value": "16",
-          "type": "sizing",
-          "description": "xsmall"
-        },
-        "small-20": {
-          "value": "20",
-          "type": "sizing",
-          "description": "small"
-        },
-        "medium-24": {
-          "value": "24",
-          "type": "sizing",
-          "description": "medium"
-        },
-        "large-32": {
-          "value": "32",
-          "type": "sizing",
-          "description": "large"
-        },
-        "xlarge-48": {
-          "value": "48",
-          "type": "sizing",
-          "description": "xlarge"
-        }
-      }
-    },
-    "APP": {
-      "Icon": {
-        "xsmall-24": {
-          "value": "24",
-          "type": "sizing",
-          "description": "xsmall"
-        },
-        "small-36": {
-          "value": "36",
-          "type": "sizing",
-          "description": "small"
-        },
-        "medium-48": {
-          "value": "48",
-          "type": "sizing",
-          "description": "medium"
-        },
-        "large-56": {
-          "value": "56",
-          "type": "sizing",
-          "description": "large"
-        },
-        "xlarge-72": {
-          "value": "72",
-          "type": "sizing",
-          "description": "xlarge"
         }
       }
     },
